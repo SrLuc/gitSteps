@@ -1,5 +1,16 @@
-# GitSteps
-step by step how to use git with github
+# GitSteps 🐙
+### step by step how to use git with github for beginners
 
-![image](https://user-images.githubusercontent.com/100430135/182462182-f13f1604-d4f6-4a55-b63c-c1415bf99d20.png)
+<br>
+
+### Prerequisites ⚠️
+- Git
+- Account on Github
+
+<img><center> 
+
+![image](https://user-images.githubusercontent.com/100430135/182463113-50b296fb-b67f-4e1e-a986-4fc2c610e357.png)
+
+</center></img>
+
 
