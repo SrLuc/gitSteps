@@ -226,6 +226,3 @@
 ---
 
 <br>
-
-
-<span style="color:red">cardeais</span>
