@@ -1,5 +1,7 @@
 # GitSteps 🐙
 
+#### Project in Progress ⚠️
+
 ### Step by step how to use git with github for beginners
 <img><center> 
 
@@ -45,6 +47,8 @@
 <br>
 
 ![GithubSite](https://user-images.githubusercontent.com/100430135/184555266-9e8e631f-6391-455e-b006-7812e5fdb547.png)
+
+
 
 
 <br>
@@ -109,7 +113,7 @@
 
 <br>
 
-### After opening Bash, type the command git init .
+### After opening Bash, type the command <span style="color:red">git init</span> 
 ### This command will initialize Git in the folder, it means that the folder will be able to work with the versioning of the files, Furthermore, the git init command will also create a folder called .git , which is "invisible" and to be able to see it you you will need to change the file view settings on your computer, but this is not necessary, as this .git folder will not be used, it is just for Git to manage itself.
 
 <br>
@@ -118,9 +122,9 @@
 
 <br>
 
-### After initializing git, still in Bash (Git Terminal) type the command git clone + repository link
+### After initializing git, still in Bash (Git Terminal) type the command <span style="color:red">git clone + repository link</span>
 
-### This link I used is the link to my remote repository (the one I told you to keep), that is, that repository you created on GitHub, use it with the command git clone + link
+### This link I used is the link to my remote repository (the one I told you to keep), that is, that repository you created on GitHub, use it with the command <span style="color:red">git clone + link</span>
 
 <br>
 
@@ -149,10 +153,78 @@
 
 <br>
 
-### Once your files are inside the page, assuming you created them from vscode inside the page, which is possible and recommended, open the git (Bash) terminal and type the command git add .
+### Once your files are inside the page, assuming you created them from vscode inside the page, which is possible and recommended, open the git (Bash) terminal and type the command <span style="color:red">( git add . ) </span>
 ### This command will put all the files on the page under git version control, this means that the files will be ready to be updated and uploaded to Github.
 
+<br>
+
+![gitAdd2](https://user-images.githubusercontent.com/100430135/184556969-ed5f7234-b7ed-4ff1-9054-30ac1de04345.png)
+
+<br>
+
+### I used the <span style="color:red">git status</span> command to show the status of new files that are in the local repository folder
+
+<br>
+
+![gitAdd3](https://user-images.githubusercontent.com/100430135/184556968-225e71da-ed63-4e9d-a3b1-ddc7915bc013.png)
+
+<br>
+
+---
+
+<br>
+
+## Step 6
+### The commit command.
+### The commit command will trigger the file or files that are part of the project to its most updated version, with a brief description, that is, the commit command, marks the end of a procedure, which will be the next one to push the files to the remote repository, Github.
+
+### the syntax of the commit command is <span style="color:red">git commit -m "mensage "</span> , that is, the -m expects a message, the quotes (" ") is where it will contain the message, this message is a brief description of your update, for example:
+
+- git commit -m "add new features"
+- git commit -m "add new header"
+- git commit -m "add new image to site"
+
+<br>
+
+![gitCommit1](https://user-images.githubusercontent.com/100430135/184557179-102e3aad-d6f3-4cfe-acb4-f908e4e5e96a.png)
+
+<br>
+
+### after this command the terminal will show some messages on the screen showing which files you committed
+
+<br>
+
+![gitCommit2](https://user-images.githubusercontent.com/100430135/184557178-e7e7bc9c-d9b2-4cec-96ab-1b412ff4038f.png)
+
+<br>
+
+---
+
+<br>
+
+## Step 7
+### The Push command and Github.
+### Now, finally, it's time to push your files to Github through the Push command, that is, the <span style="color:red">git push</span> command serves to allocate all the latest updates of your project files to Github, in this way, with each push , your remote repository keeps abreast of updates from your local repository.
+
+<br>
+
+![gitPush1](https://user-images.githubusercontent.com/100430135/184557609-3257405c-ef47-44eb-9d6a-6b8ee8fa1969.png)
+
+<br>
+
+### After the <span style="color:red">push </span> command, the terminal will show some messages on the screen, regarding the push, showing that it was done successfully.
+
+<br>
+
+![gitPush2](https://user-images.githubusercontent.com/100430135/184557610-61b6c998-42f6-4e42-924b-15735cb3254a.png)
+
+<br>
+
+### After the push, enter your Github account and you will see in your repositories that the new repository has been updated with the files you added on your computer, so whenever you want to upload a new file or modify an existing one in the folder, just use the git add command. then the command git commit -m "message" and finally the command git push.
+
+---
+
+<br>
 
 
-
-
+<span style="color:red">cardeais</span>
