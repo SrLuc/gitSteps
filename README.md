@@ -48,9 +48,6 @@
 
 ![GithubSite](https://user-images.githubusercontent.com/100430135/184555266-9e8e631f-6391-455e-b006-7812e5fdb547.png)
 
-
-
-
 <br>
 
 ---
@@ -133,6 +130,10 @@
 <br>
 
 ### After this command, git will download a clone from the remote repository to the local folder you created, where you will be able to work with your codes and projects.
+
+<br>
+
+![2022-08-14 (12)](https://user-images.githubusercontent.com/100430135/184558866-12684abd-bf5c-45bc-b153-aa9ccf91b375.png)
 
 <br>
 
