@@ -110,11 +110,6 @@
 
 <br>
 
-### After opening Bash, type the command <span style="color:red">git init</span> 
-### This command will initialize Git in the folder, it means that the folder will be able to work with the versioning of the files, Furthermore, the git init command will also create a folder called .git , which is "invisible" and to be able to see it you you will need to change the file view settings on your computer, but this is not necessary, as this .git folder will not be used, it is just for Git to manage itself.
-
-<br>
-
 ![gitInit1](https://user-images.githubusercontent.com/100430135/184556159-d7550bf9-b902-4793-a77a-937569e7d06d.png)
 
 <br>
