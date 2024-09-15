@@ -110,10 +110,6 @@
 
 <br>
 
-![gitInit1](https://user-images.githubusercontent.com/100430135/184556159-d7550bf9-b902-4793-a77a-937569e7d06d.png)
-
-<br>
-
 ### After initializing git, still in Bash (Git Terminal) type the command <span style="color:red">git clone + repository link</span>
 
 ### This link I used is the link to my remote repository (the one I told you to keep), that is, that repository you created on GitHub, use it with the command <span style="color:red">git clone + link</span>
